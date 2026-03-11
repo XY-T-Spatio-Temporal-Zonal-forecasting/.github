@@ -74,6 +74,12 @@ Until a `CONTRIBUTING.md` guide is published in this repository, please:
 3. Keep pull requests focused — one logical change per PR.
 4. Be respectful and constructive in all discussions (see our upcoming Code of Conduct).
 
+### Dataset
+
+The primary dataset used across this organization's projects is the **SkillCorner Open Data** — 9 matches of broadcast tracking data covering the 2019/2020 top-two finishers in the English Premier League, French L1, Spanish LaLiga, Italian Serie A, and German Bundesliga.
+
+If you use this data in any work built on top of this organization's repositories, please **credit [SkillCorner](https://skillcorner.com)** as the data provider.
+
 ---
 
 ## 📄 License
@@ -89,3 +95,19 @@ MIT License — Copyright (c) 2026 XY.T- Spatio-Temporal Zonal forecasting
 ## 📬 Contact
 
 For questions, collaboration proposals, or research inquiries, please [open an issue](https://github.com/XY-T-Spatio-Temporal-Zonal-forecasting/.github/issues) in this repository.
+
+---
+
+## 📚 References
+
+- **SkillCorner Open Data** — broadcast tracking dataset used across this organization's projects.
+  [github.com/SkillCorner/opendata](https://github.com/SkillCorner/opendata)
+
+- **SkillCorner** — provider of broadcast tracking data collected via computer vision and machine learning.
+  [skillcorner.com](https://skillcorner.com) · [@skillcorner](https://twitter.com/skillcorner)
+
+- **Friends Of Tracking** — co-initiator of the open-data release; educational resource for football analytics.
+  [YouTube channel](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)
+
+- **"A New World of Performance Insight from Video Tracking Technology"** — introductory article on broadcast tracking data and its use cases.
+  [medium.com/skillcorner](https://medium.com/skillcorner/a-new-world-of-performance-insight-from-video-tracking-technology-f0d7c0deb767)
