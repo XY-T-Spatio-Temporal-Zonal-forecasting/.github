@@ -35,11 +35,7 @@ Our work sits at the intersection of:
 This `.github` repository is the **central configuration hub** for the entire organization. It houses default files that apply across all repositories unless overridden at the individual repository level:
 
 - **`profile/README.md`** — The organization's public-facing GitHub profile page
-- **`CONTRIBUTING.md`** *(planned)* — Guidelines for contributing to any project in this org
-- **`CODE_OF_CONDUCT.md`** *(planned)* — Community standards and expectations
-- **`SECURITY.md`** *(planned)* — Responsible disclosure policy
-- **`ISSUE_TEMPLATE/`** *(planned)* — Reusable issue templates (bug reports, feature requests)
-- **`PULL_REQUEST_TEMPLATE.md`** *(planned)* — Default PR checklist
+
 
 ---
 
@@ -54,12 +50,9 @@ Traditional forecasting models operate on a single location or a global aggregat
 - **Cross-zonal interactions** — information propagates across zone boundaries over time
 
 This unlocks applications in:
-
-- 🌦️ **Weather & climate** — gridded precipitation, temperature, and wind forecasting
-- 🌾 **Agriculture** — crop yield and drought-risk prediction per agro-ecological zone
-- 🏙️ **Urban mobility** — demand forecasting at traffic analysis zone (TAZ) granularity
-- ⚡ **Energy** — load and renewable generation forecasting by grid zone
-- 🌊 **Hydrology** — streamflow and flood risk prediction per watershed
+- Football trajectory prediction
+- Position prediction
+- Zonal position Predictions
 
 ---
 
@@ -102,6 +95,8 @@ For questions, collaboration proposals, or research inquiries, please [open an i
 
 - **SkillCorner Open Data** — broadcast tracking dataset used across this organization's projects.
   [github.com/SkillCorner/opendata](https://github.com/SkillCorner/opendata)
+
+- **Kaggle Dataset**- Dataset obtained from skill corners open data [Spatio-Temporal Data](https://www.kaggle.com/hashirhalaldeen/datasets)
 
 - **SkillCorner** — provider of broadcast tracking data collected via computer vision and machine learning.
   [skillcorner.com](https://skillcorner.com) · [@skillcorner](https://twitter.com/skillcorner)
